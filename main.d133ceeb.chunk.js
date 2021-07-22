@@ -2742,12 +2742,12 @@
           content: "Instagram Icon"
         }, {
           id: 4,
-          link: "https://crypto-investor.net/",
+          link: "https://discord.gg/mb6mK7t4wR",
           image: Di,
           content: "Discord Icon"
         }, {
           id: 5,
-          link: "https://crypto-investor.net/",
+          link: "https://www.reddit.com/user/cryptoinvestorpro123",
           image: Ri,
           content: "Reddit Icon"
         }, {
